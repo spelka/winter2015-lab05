@@ -3,6 +3,9 @@
 // location of data folders
 define('DATA_FOLDER', './data');
 
+//defining a break macro
+define('BR', '<br/>');
+
 /*
 |--------------------------------------------------------------------------
 | File Stream Modes
